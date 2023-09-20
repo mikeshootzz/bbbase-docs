@@ -11,6 +11,10 @@ markdown_extensions:
   - pymdownx.details
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - toc.follow
+    - content.code.copy
   palette: 
     # Palette toggle for light mode
     - scheme: slate
