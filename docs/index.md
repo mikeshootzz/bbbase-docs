@@ -8,6 +8,14 @@
 
 BBBase ist eine Plattform zur Förderung des Wissensaustauschs zwischen Schülern. Anders als traditionelle Lernplattformen werden hier Inhalte direkt von den Schülern beigesteuert und geteilt.
 
+### Was ist das ziel davon?
+
+BBBase soll als Kollaborationsplattform dienen. Ihr könnt hier alls von euren Hausaufgabe bis hin zu euren Notizen teilen. Das Ziel ist es, dass ihr euch gegenseitig helft und so eure Lernergebnisse und eure Zeit, die ihr für die Schule aufwenden müsst, verringern könnt.
+
+!!! Info 
+
+    Eine Anleitung findet ihr [hier](Anleitungen/BBBase%20Wissensaustausch.md).
+
 ## Features
 
 - **Wissensaustausch**: Tausche Materialien, Notizen und mehr mit anderen Schülern aus.
