@@ -25,7 +25,8 @@ BBBase soll als Kollaborationsplattform dienen. Ihr könnt hier alls von euren H
 ## Wie man teilnimmt
 
 1. Besuche [BBBase](https://bbbase.ch)
-2. Registriere dich oder melde dich an (nur mit einer stud.bbbaden.ch E-Mail-Adresse möglich)
+2. Registriere dich  mit deiner stud.bbbaden.ch E-Mail-Adresse 
+   > Achtung: dies ist nicht der Schul-Account, ihr müsst euch alle erstmalig registrieren und ein Passwort festlegen
 3. Entdecke und bereichere die Plattform durch deinen eigenen Wissensbeitrag
 
 ## Medienablage

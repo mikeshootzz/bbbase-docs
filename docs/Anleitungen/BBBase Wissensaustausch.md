@@ -1,6 +1,7 @@
 # BBBase Wissensaustausch
 
-BBBase basiert auf BookStack. Grundlegende Informationen zu diesem Werkzeug findet ihr [hier](https://www.bookstackapp.com/docs/user/content-overview/)
+!!! info
+    BBBase basiert auf BookStack. Grundlegende Informationen zu diesem Werkzeug findet ihr [hier](https://www.bookstackapp.com/docs/user/content-overview/)
 
 ## Grundlegender Aufbau
 
