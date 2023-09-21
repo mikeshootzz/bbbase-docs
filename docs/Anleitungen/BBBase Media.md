@@ -1,7 +1,8 @@
 # BBBase Media
 
 !!! info
-    BBBase basiert auf Nextcloud. Grundlegende Informationen zu diesem Werkzeug findet ihr [hier](https://docs.nextcloud.com/server/20/user_manual/de/)
+    - BBBase basiert auf Nextcloud. Grundlegende Informationen zu diesem Werkzeug findet ihr [hier](https://docs.nextcloud.com/server/20/user_manual/de/)
+    - Die Warnung "Bitte kontaktieren Sie Ihre Administration" könnt ihr ignorieren. Dies ist ein Bug von Nextcloud.
 
 ## Grundlegende Verwendung
 
