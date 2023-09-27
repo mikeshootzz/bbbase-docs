@@ -13,7 +13,11 @@ Shelves sollen eine grobe Kategorisierung von Büchern darstellen. Es gibt zum B
 
 ## Books
 
-Für jedes Fach kann man anschliessend ein Book mit dem Namen er Klasse erstellen. Hier kann dann jeder seine Seiten erstellen und mit anderen teilen.
+Für jedes Fach kann man anschliessend ein Book erstellt werden. Dieses Book wird nach dem Namen einer Lehrperson benannt. 
+
+## Chapters
+
+Kapitel können das Fach einer Lehrperson noch weiter Kategorisieren. Das können beispielsweise Informatik Module sein.
 
 ## Berechtigungen
 
