@@ -12,6 +12,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 theme:
+  logo: images/knowledge-base-icon-27.jpg
+  favicon: images/knowledge-base-icon-27.jpg
   name: material
   features:
     - navigation.tabs
